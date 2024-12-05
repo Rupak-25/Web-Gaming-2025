@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/Web Gaming_transparent-.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Web Gaming</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <div class="scrollbar"> <div class="thumb" id="thumb"></div> </div>
+
+    <script> const thumb = document.getElementById('thumb'); document.addEventListener('scroll', () => { const scrollPercent = window.scrollY / (document.body.scrollHeight - window.innerHeight); thumb.style.transform = `translateY(${scrollPercent * (window.innerHeight - thumb.offsetHeight)}px) rotate(${scrollPercent * 360}deg)`; }); </script>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
