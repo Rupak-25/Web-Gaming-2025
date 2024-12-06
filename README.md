@@ -19,7 +19,7 @@
 <h3>Follow these steps to set up the project locally:</h3>
 Clone the repository:<br/>
 git clone https://github.com/Rupak-25/Web-Gaming-2025.git<br/>
-cd web-gaming-2025<br/>
+cd Web-Gaming-2025<br/>
 
 <h1>Install the dependencies:</h1>
 npm install or yarn install<br/>
