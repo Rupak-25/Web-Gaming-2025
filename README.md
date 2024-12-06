@@ -1,5 +1,8 @@
 # Web-Gaming-2025
-<a herf="https://web-gaming-2025.vercel.app"><img src = "https://github.com/user-attachments/assets/e58b013f-8581-44a7-8171-6c74c27f1124" alt ="image"></a>
+<a href="https://web-gaming-2025.vercel.app/">
+  <img src="https://github.com/user-attachments/assets/e58b013f-8581-44a7-8171-6c74c27f1124" alt="image">
+</a>
+
 
 <h1>Features</h1>
 ◉ Modern and intuitive UI<br/>
@@ -15,7 +18,7 @@
 <h1>Installation</h1>
 <h3>Follow these steps to set up the project locally:</h3>
 Clone the repository:<br/>
-git clone https://github.com/your-username/web-gaming-2025.git<br/>
+git clone https://github.com/Rupak-25/Web-Gaming-2025.git<br/>
 cd web-gaming-2025<br/>
 
 <h1>Install the dependencies:</h1>
